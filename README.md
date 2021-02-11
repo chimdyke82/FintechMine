@@ -1,9 +1,9 @@
 # FintechMine
-##Introduction
+## Description
 - My Name is Chimdike. I am an Engineer. I have a degree in Production Engineering and an MSc in Petroleum Engineering.
-##Where do you see yourself?
+### Table of Contents
 - I see myself spinning away from core oil and gas industry to playing in the Tech space as a project manager
-##Why Fintech?
+## Why Fintech?
 - I felt i would have the best of worlds - have an insight into what is happening in Tech, coding, understand the vocabulary, cryptocurrency and the processes involved. Tittu has coached me.
 [Who you?](www.google.com)
 ```python
