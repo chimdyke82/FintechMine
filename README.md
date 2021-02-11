@@ -13,3 +13,6 @@ print("Thank You")
 ![Flying to the skies](./references/plane.jfif)
 ![leaving earth behind, mars here we come](./mars.jfif)
 [join the new](https://ethereum.org/en/)
+```python
+print(Today is a gift, use it well)
+```
